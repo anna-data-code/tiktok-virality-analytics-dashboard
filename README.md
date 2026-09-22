@@ -78,9 +78,5 @@ Understanding what turns standard video content into a viral sensation is critic
 ├── .gitignore                                       # Git ignore rules
 └── README.md                                        # Project documentation & analytical breakdown
 
----
 
-## 👤 Author
-* **Anna Kuksa** — Data Analyst / Analytics Engineer
-* ** GitHub:** @anna-data-code
-* ** Tableau Public:** [Anna Kuksa Profile](https://public.tableau.com/app/profile/anna.kuksa?utm_source=gemini)
+
