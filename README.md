@@ -5,7 +5,8 @@
 
 An interactive Tableau analytical dashboard designed to uncover the structural drivers of video virality, user engagement dynamics, and content safety patterns on TikTok.
 
-![Dashboard Preview](dashboard_preview.png)
+![Dashboard 1 Preview](1_dashboard_preview.png)
+![Dashboard 2 Preview](2_dashboard_preview.png)
 
 ---
 
